@@ -1,4 +1,9 @@
 # Grime.ModdingTools
+
+> [!CAUTION]
+> This repository is deprecated as Grime modding is moving to Thunderstore. It will be superceded by
+> [BepInExPack-Grime](https://github.com/BadMagic100/BepInExPack-Grime)
+
 ## Installation
 
 In order to play with mods, install the modding tools by following these steps:
